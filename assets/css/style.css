@@ -842,6 +842,14 @@
  /* ========== Medium Screen ============== */
 
  @media (max-width: 500px) {
+   .char-info-title {
+    color: #1C1C28;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12.904px;
+    margin-top: 10px;
+    }
     .search-container {
         display: flex;
         justify-content: center;
