@@ -793,6 +793,24 @@
             'table table';
     }
 
+    .char-info-des {
+        margin-top: 15px;
+        color: var(--font-style-light);
+        font-size: 12px;
+        font-style: normal;
+        line-height: 12.904px;
+        margin-bottom: 10px;
+    }
+
+    .char-info-title {
+        color: #1C1C28;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 12.904px;
+        margin-top: 10px;
+     }
+
 
 
     .search-container {
